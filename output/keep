@@ -1,0 +1,4 @@
+getwd()
+
+dataset <- read.csv("./data/dataset.csv")
+head(dataset)
